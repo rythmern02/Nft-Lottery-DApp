@@ -4,7 +4,7 @@
 
 Welcome to the NFT Lottery DApp, a decentralized application for a unique and thrilling NFT lottery experience. This project is created for the LightLink Hackathon organized on the Encode platform.
 
-![NFT_LOTTERY_DAPP](https://drive.google.com/file/d/1qIdlblyMeByz7Nezev8BYO-l_o5Kme50/view?usp=sharing)
+![NFT_LOTTERY_DAPP](https://photos.app.goo.gl/YYTaHDnDk3A1KUNw7)
 ## Features
 
 - **API3 QRNG Integration**: We leverage the API3 Quantum Random Number Generator (QRNG) for fair and transparent random NFT selection.

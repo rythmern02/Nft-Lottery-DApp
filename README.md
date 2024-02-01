@@ -8,6 +8,8 @@ Welcome to the NFT Lottery DApp, a decentralized application for a unique and th
 ## Features
 
 - **API3 QRNG Integration**: We leverage the API3 Quantum Random Number Generator (QRNG) for fair and transparent random NFT selection.
+ 
+- **LightLink EnterPrise Mode**: We have used the enterprise mode on both of our smart contracts on the lightlink blockchain so that users can use the smart contracts without gas fees .
 
 - **Smart Contract Integration**: Smart contracts are utilized to handle NFT minting, ensuring a secure and decentralized lottery process.
 

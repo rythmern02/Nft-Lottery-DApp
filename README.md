@@ -61,6 +61,7 @@ Welcome to the NFT Lottery DApp, a decentralized application for a unique and th
 
 Visit the [BlockScout Explorer](https://blockscout.com/) and search for the transactions on these smart contracts using public tags for smart contract interactions.
 
+[here is the demo](https://github.com/rythmern02/Nft-Lottery-DApp/blob/main/lightlink_project_randomized%20nfts%20(1)%20(1).mp4)
 
 ## Hackathon Information
 
